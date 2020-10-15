@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943210026617",
+    "firebase_url": "https://unity-test-7ac84.firebaseio.com",
+    "project_id": "unity-test-7ac84",
+    "storage_bucket": "unity-test-7ac84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943210026617:android:d28834c09d68b98e64e6a8",
+        "android_client_info": {
+          "package_name": "com.tanmay7d.FPSGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943210026617-qtppt8dqv6kj3kiqsj3ctdjff9q60cld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCbdusWQoPIIKxtOLn9wW_QLVYuGb-_Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943210026617-qtppt8dqv6kj3kiqsj3ctdjff9q60cld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943210026617-rk7kh3nh2caf680ildvv88kluqlukj8c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tanmay7d.FPSGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
